@@ -29,3 +29,10 @@ La función f_gamma la renombre suma_de_digitos porque recibe un valor por refer
 Procesar_enigma le cambie el nombre a transformador ya que recibe por referencia un numero y lo invierte luego lo divide en 2 y al final le suma la suma de sus dígitos
 
 A dato_misterioso solo le cambie el nombre a numero
+
+
+## Ejercicio 4
+
+Los apartados 2 y 3 son iguales ya que el 2 es la direccion la variable x y en el 3 el puntero guarda justamente la dirección de memoria de la variable a la que apunta que es x.
+
+El apartado 4 es distinto a los anteriores ya que este tiene la direccion de memoria asignada al puntero ya que un puntero tambien ocupa un espacio en la memoria y el 4 muestra esa direccion de memoria
